@@ -1,0 +1,15 @@
+#jumbotron{
+  margin-top: 200px;
+}
+a{
+  text-decoration: none;
+  border-radius: 15px;
+}
+.nmr a{
+  text-decoration: none;
+  border-radius: 15px;
+}
+
+#tentang ul{
+  list-style: square;
+}
